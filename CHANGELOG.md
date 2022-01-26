@@ -1,3 +1,6 @@
+## 2.0.1
+- Expose `RouteSettings` in `showMaterialModalBottomSheet`, `showBarModalBottomSheet`, and `showCustomModalBottomSheet`.
+
 ## 2.0.0-nullsafety.1 - Null Safety support
 + Fixes #119 & #113
 
